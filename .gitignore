@@ -181,3 +181,22 @@ cython_debug/
 .cursorindexingignore
 dataset_attached/
 top_dataset/
+data/dataset_attached/
+top_dataset/
+data/
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Data (Verilerin buraya girmesini engelliyoruz)
+dataset_attached/
+top_dataset/
+data/
+
+# IDE / Editör
+.idea/
+.vscode/
+.DS_Store
