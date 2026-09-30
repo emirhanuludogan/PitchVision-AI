@@ -3,7 +3,7 @@
 Halı saha futbol maçları için geliştirilen, uçtan uca bilgisayarlı görü (computer vision) ve otomatik etiketleme (auto-labeling) boru hattı (pipeline) projesidir. Bu repo; oyuncu takibi, veri seti hazırlama süreçleri ve derin öğrenme modellerinin entegrasyonunu amaçlar.
 
 ## 👥 Proje Ekibi & Katkı Verenler
-* **Emirhan Uludogan**
+* **Muhammed Emirhan Uludogan**
 * **Şevval Yavuz**
 * **Enes Ketenci**
 
