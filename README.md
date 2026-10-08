@@ -14,6 +14,7 @@ Halı saha futbol maçları için geliştirilen, uçtan uca bilgisayarlı görü
 - `/docs/eval_results`: Model eğitim metrikleri, başarım grafikleri ve doğrulama görselleri.
 - `/models/ball_tracking_model`: Eğitilmiş YOLO model ağırlıkları (`best.pt`) ve model yapılandırmaları.
 - `/src`: Ana Python kaynak kodları, veri işleme ve çıkarım scriptleri.
+  - [`/src/etiketkontrol`](src/etiketkontrol/readme.md): Label Studio Yerel Etiketleme Rehberi ve Etiket Doğrulama Aracı.
 - `/notebooks`: Kaggle çalışmaları, deneysel notebook'lar ve prototipler.
 - `/data`: Veri setleri (Git tarafından takip edilmez, yerel tutulmalıdır).
 
